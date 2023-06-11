@@ -3,7 +3,7 @@
 
 .container{
     transition: all 0.2s ease-in-out;
-    animation: slide-in 2s ease-out backwards;
+    animation: slide-in 2s ease-in forwards;
 }
 
 html{
